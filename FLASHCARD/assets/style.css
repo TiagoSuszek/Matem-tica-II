@@ -15,6 +15,17 @@ body {
     flex-basis: calc(33% - 6rem);
 }
 
+.cartao__conteudo {
+    text-align: center;
+    /*background-color: cornflowerblue;*/
+    height: 100%;
+}
+
+.cartao__conteudo h3 {
+    background-color: crimson;
+    text-align: left;
+    
+}
 footer {
     background-color: black;
     color:aliceblue;
