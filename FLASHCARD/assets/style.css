@@ -1,5 +1,5 @@
 body {
-    background-color: darkslategrey;
+    background: url('image.png')
     font-family: Bai Jamjuree;
 }
 
@@ -24,8 +24,13 @@ body {
 .cartao__conteudo h3 {
     background-color: crimson;
     text-align: left;
-    
+    padding: 0.5rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
 }
+
 footer {
     background-color: black;
     color:aliceblue;
